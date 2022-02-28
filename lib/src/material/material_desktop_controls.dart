@@ -427,7 +427,7 @@ class _MaterialDesktopControlsState extends State<MaterialDesktopControls>
       child: Container(
         height: barHeight,
         color: Colors.transparent,
-        margin: const EdgeInsets.only(left: 0.0, right: 0.0),
+        margin: const EdgeInsets.only(left: 10.0, right: 10.0),
         padding: const EdgeInsets.only(
           left: 0.0,
           right: 0.0,
